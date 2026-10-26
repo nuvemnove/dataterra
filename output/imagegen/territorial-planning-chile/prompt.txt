@@ -1,0 +1,25 @@
+Use case: style-transfer and compositing.
+Asset: one finished DataTerra pitch-deck slide. CRITICAL OUTPUT exact landscape 1920 x 1080 pixels, ratio16:9 identical to the original.
+INPUTS: Image1 is the user's original slide, the EDIT TARGET. Image2 is the branded DataTerra slide and the design reference only (do NOT copy its text). Image3 is an authentic Google datacenter exterior photograph in Quilicura, Chile, to replace the left placeholder. Preserve the actual building, architecture and photo context; do not invent another facility.
+PRIMARY TASK: redesign target beautifully in DataTerra's website design system. Keep the original English wording and information. Replace the angle-bracket placeholder with the supplied actual datacenter photo. Improve hierarchy, alignment and breathing room.
+BRAND: deep forest-green #101b17 background in the right area, slightly lighter dark-green #182720 cards, subtle #34463a borders, #edf2e8 ivory type, #b5c3b0 secondary text, #b3cf91 sage highlights, very limited #e4a080 terracotta accents. Heading typography Montserrat bold; body Poppins regular. Tiny thin topographic contours only at far top-right/bottom-right if useful. Small current DataTerra logo near the top of the right column matching Image2 exactly: sage three stacked outline diamonds, lowercase dataterra with bold data and regular terra, small terracotta final dot. No old logo.
+LAYOUT:
+The LEFT 37.7% of canvas (x0 to x724 in1920px) is the supplied datacenter photo, full bleed, vertically cropped to fit without distorting the building. Keep the left photo area present and substantial. Its boundary against the right area must be a perfectly straight vertical sharp edge with square corners. ABSOLUTELY NO FADE OR GRADIENT AT THE PHOTO BOUNDARY. No rounded photograph. At bottom of left panel put a solid dark-green caption strip, about90px tall, not translucent, with small readable ivory text:
+"Quilicura, Chile"
+"Photo: Google via Notimérica / Europa Press"
+This credit is for the photograph only; do not attribute the risk text to Google or imply specific misconduct by the pictured facility.
+RIGHT62.3%: balanced inner margins about80px. Left-align the right content, vertically balanced with all text inside the slide. Logo small at top. Title below in strong ivory type, approx56px, may span2or3lines:
+"The high cost of weak"
+"territorial planning"
+Under title, readable introductory paragraph in28px:
+"In Latin America, the rush to build AI hubs without local territorial screening has already led to stalled projects, aquifer exhaustion disputes, and direct friction with local communities."
+Then three compact elegant horizontal risk rows/cards, consistent heights/padding, fine borders, a small sage/terracotta outline icon at left, bold label and clear body text at right. Use community/dialogue icon, electrical grid/lightning icon, tax/document icon respectively. Avoid overdecorating. Entire body clearly legible around26px.
+ROW1 label "Reputational Exposure"
+"Community opposition and water conflicts stall project timelines and destroy public trust."
+ROW2 label "Grid Instability"
+"Inadequate grid capacity forces heavy reliance on expensive, high-polluting backup diesel generators."
+ROW3 label "Fiscal Penalties"
+"Non-compliance leads to retroactive tax payments, accrued interest, and severe financial fines."
+Bottom callout separated by a subtle fine rule, preserving full text:
+"A poor location decision drives up daily operating costs, delays a project's time to market, and damages a company's reputation."
+Emphasize "poor location decision" in bold sage and final phrase in restrained terracotta/ivory italic. No additional text or invented figures/sources. All copy must fit; elegant readable typography, no text clipping, no placeholders, no crowded borders. Preserve actual photo and English content, one polished dark slide at exact16:9.

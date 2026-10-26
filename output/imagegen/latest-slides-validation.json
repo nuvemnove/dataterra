@@ -1,0 +1,40 @@
+[
+  {
+    "name": "mission",
+    "decoded": "https://dataterra.vercel.app/",
+    "status": "passed"
+  },
+  {
+    "name": "prototype",
+    "decoded": "https://data-terra.vercel.app/",
+    "status": "passed"
+  },
+  {
+    "file": "territorial-planning-chile/dataterra-territorial-planning-chile.png",
+    "format": "png",
+    "width": 1920,
+    "height": 1080,
+    "ratio": "16:9"
+  },
+  {
+    "file": "slides-27-29/27-roadmap.png",
+    "format": "png",
+    "width": 1920,
+    "height": 1080,
+    "ratio": "16:9"
+  },
+  {
+    "file": "slides-27-29/28-purpose.png",
+    "format": "png",
+    "width": 1920,
+    "height": 1080,
+    "ratio": "16:9"
+  },
+  {
+    "file": "slides-27-29/29-thank-you.png",
+    "format": "png",
+    "width": 1920,
+    "height": 1080,
+    "ratio": "16:9"
+  }
+]

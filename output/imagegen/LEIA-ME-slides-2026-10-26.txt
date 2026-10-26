@@ -1,0 +1,18 @@
+ENTREGAS DE SLIDES — 26/10/2026
+
+slides-27-29/: roadmap, propósito e encerramento.
+territorial-planning-chile/: slide sobre planejamento territorial.
+slides-en-2026-10-26/: avaliação por pilares e planejamento, com interface em inglês.
+
+Todos os seis slides finais são PNG 1920 × 1080 (16:9).
+Fontes e créditos: latest-slides-sources.json.
+Validações: latest-slides-validation.json e slides-en-2026-10-26/validation.json.
+
+Prompts e ativos de referência foram preservados junto dos arquivos finais.
+O script finalize-latest-slides.cjs registra a composição feita no ambiente
+original; seus caminhos de bibliotecas e imagens geradas são locais e precisam
+ser ajustados antes de reproduzir a exportação em outra máquina.
+
+Estes materiais de apresentação não implementam funcionalidades no simulador.
+Textos históricos, cargos e afirmações dos slides devem ser conferidos antes
+de nova apresentação; os créditos das fotos não validam todas as afirmações.

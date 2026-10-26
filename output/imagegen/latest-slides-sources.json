@@ -1,0 +1,53 @@
+{
+  "created": "2026-10-26",
+  "mode": "built-in image_gen",
+  "dimensions": {
+    "width": 1920,
+    "height": 1080,
+    "aspect_ratio": "16:9",
+    "format": "PNG"
+  },
+  "outputs": [
+    {
+      "file": "dataterra-territorial-planning-chile.png",
+      "title": "The high cost of weak territorial planning",
+      "copy": "User-provided English content; design restyling only. The photo credit does not substantiate the risk claims.",
+      "photo_credit": "Google via Notimérica / Europa Press",
+      "photo_page": "https://www.notimerica.com/sociedad/noticia-google-apertura-primer-centro-datos-iberoamerica-20170112130432.html",
+      "photo_asset": "https://img.europapress.es/fotoweb/fotonoticia_20170112130432_1200.jpg"
+    },
+    {
+      "file": "27-roadmap.png",
+      "title": "Product Roadmap",
+      "photo_credit": "Scala Data Centers",
+      "photo_page": "https://scaladatacenters.com/data-centers/",
+      "photo_asset": "https://scaladatacenters.com/wp-content/uploads/2022/03/SGRUTB08-2.png"
+    },
+    {
+      "file": "28-purpose.png",
+      "title": "Our purpose",
+      "copy": "User-provided English content, preserved."
+    },
+    {
+      "file": "29-thank-you.png",
+      "title": "Thank you",
+      "portraits": [
+        {
+          "name": "Camilla Chu",
+          "source": "https://pt.linkedin.com/posts/camillacedrochu_inovathonwtm2025-wtm-gdg-activity-7312628599524593666-dg1F"
+        },
+        {
+          "name": "Rayssa Buarque",
+          "source": "https://pt.linkedin.com/posts/rayssabuarque_o-empreende-sim-%C3%A9-um-programa-que-abre-activity-7300332353934049280--yfZ"
+        }
+      ],
+      "usp_logo": "https://commons.wikimedia.org/wiki/File:USPlogo.png",
+      "qr_codes": {
+        "mission": "https://dataterra.vercel.app/",
+        "prototype": "https://data-terra.vercel.app/"
+      },
+      "validation": "Both QR codes decoded from the source slide and final PNG, with matching destination URLs."
+    }
+  ],
+  "production": "Creative editing with image_gen; final resizing and preservation of source photo, logo, portrait and QR pixels with Sharp. Real photograph resolution preserved; no invented likenesses. Source JPGs were not overwritten."
+}
