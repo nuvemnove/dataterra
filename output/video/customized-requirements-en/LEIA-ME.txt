@@ -1,0 +1,69 @@
+DATATERRA — SLIDES EM INGLÊS E VÍDEO DE DEMONSTRAÇÃO
+Data: 26/10/2026
+
+ENTREGAS
+01-four-pillar-assessment-en.png
+02-location-planning-en.png
+dataterra-customized-requirements-en.mp4
+dataterra-customized-requirements-en.jpg — imagem de prévia do vídeo.
+
+SLIDES
+1920 × 1080 px, PNG, proporção 16:9.
+Somente o print à esquerda foi traduzido para inglês. O painel direito
+foi preservado pixel por pixel. O mapa e os nomes geográficos originais
+foram mantidos, com tradução das legendas e dos controles.
+As imagens foram editadas com a ferramenta integrada ImageGen.
+Os prompts completos estão em prompts.json. A composição final com os
+painéis originais foi realizada com Sharp, sem recriar o texto à direita.
+A validação de dimensões e preservação está em slides-validation.json.
+
+VÍDEO
+10 segundos, 1920 × 1080 px, 16:9, 30 fps, MP4/H.264, sem áudio.
+Gravação em tela cheia de um protótipo interativo local, com movimentos
+de cursor, cliques e digitação reais no navegador. A interface está em
+inglês e segue as cores e fontes do DataTerra.
+
+É uma demonstração do conceito Customized Requirements, não uma gravação
+de uma funcionalidade já publicada no MVP. O formulário completo foi
+preparado para ilustrar o fluxo do slide; ele não altera a plataforma.
+
+VALORES DE EXEMPLO
+Tipo de instalação: Hyperscale AI campus
+Refrigeração: Direct liquid cooling (DLC)
+Macrorregião: Southeast — Sudeste
+Modelo de servidor: GPU compute server
+Quantidade de servidores: 6.400
+Capacidade elétrica: 100 MW
+Consumo de água estimado: 320 m³/dia
+Resiliência e redundância: Tier III · N+1
+
+Esses valores ilustram o preenchimento; não representam um projeto
+dimensionado ou validado tecnicamente.
+
+LISTA FINAL
+Barueri/SP, Campinas/SP, São José dos Campos/SP, Uberlândia/MG,
+Resende/RJ e Serra/ES. Os municípios e suas coordenadas foram obtidos
+do arquivo data/municipalities.json do projeto local DataTerra.
+
+A seleção é ilustrativa da macrorregião solicitada. Não é um ranking
+calculado pelos quatro pilares nem uma recomendação de implantação.
+Os demais campos compõem o resumo do projeto na demonstração.
+
+REPRODUÇÃO NO PROJETO LOCAL
+output/video/customized-requirements-en/source/demo.html
+output/video/customized-requirements-en/source/capture.cjs
+output/video/customized-requirements-en/source/export.cjs
+
+Executar no diretório do projeto:
+node output/video/customized-requirements-en/source/capture.cjs --record
+node output/video/customized-requirements-en/source/export.cjs
+
+O arquivo video-validation.json registra o formato final conferido.
+
+ORGANIZAÇÃO NO REPOSITÓRIO
+Os slides e seus prompts ficam em output/imagegen/slides-en-2026-10-26/.
+A validação dos slides fica em validation.json nessa pasta.
+A validação do vídeo fica em video-validation.json junto deste arquivo.
+Gravações brutas e capturas intermediárias não são versionadas. Os scripts
+registram o ambiente original e usam caminhos locais para bibliotecas e
+Chromium, que precisam ser ajustados ao executar em outra máquina.
