@@ -1,5 +1,6 @@
 # Presentation and video deliverables are versioned in Git, not served by the app.
 output/
+tmp/
 
 # Local files are unnecessary for the hosted simulator.
 .DS_Store

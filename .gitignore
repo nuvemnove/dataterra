@@ -19,3 +19,11 @@ output/imagegen/slides-23-26/export-slides.cjs
 output/imagegen/slides-23-26/comparison-capture.json
 output/imagegen/slides-23-26/export-manifest.json
 output/imagegen/slides-23-26/*.zip
+
+# Local delivery receipts, browser QA and recording intermediates.
+tmp/
+output/landing-review/
+output/links-preview/
+output/imagegen/latest-delivery.json
+output/video/customized-requirements-en/delivery.json
+output/video/customized-requirements-en/captures/
