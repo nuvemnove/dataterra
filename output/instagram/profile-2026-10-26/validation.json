@@ -1,0 +1,18 @@
+{
+  "width": 1080,
+  "height": 1080,
+  "originalPathsPreserved": true,
+  "logoBox": {
+    "x": 180,
+    "y": 180,
+    "width": 720,
+    "height": 720
+  },
+  "strokeWidth": 1.6,
+  "bioCharacters": 122,
+  "smallPreviews": [
+    320,
+    110,
+    40
+  ]
+}

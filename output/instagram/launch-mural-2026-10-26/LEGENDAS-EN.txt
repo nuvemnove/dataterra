@@ -1,0 +1,69 @@
+DATATERRA — INSTAGRAM LAUNCH CAPTIONS
+Copy the caption matching the filename. Publish each image as its own post.
+
+POST 1 — PUBLISH FIRST — RIGHT SIDE OF THE FINAL MURAL
+File: 01-publicar-primeiro-direita.png
+
+Four pillars. A clearer view.
+
+A data-center location is more than a point on a map. Water stress, energy capacity, connectivity, and social and territorial risks all shape the questions a project needs to answer.
+
+DataTerra brings these perspectives together to support preliminary site screening and help teams identify where deeper investigation is needed.
+
+Explore the project through the link in our bio.
+
+#DataTerra #DataCenters #TerritorialIntelligence #DigitalInfrastructure
+
+Alt text:
+Dark green DataTerra graphic with the headline “Four pillars. A clearer view.” Four icons represent water stress, energy capacity, connectivity, and social and territorial risk. An illustrated landscape below includes wind turbines, solar panels and electrical infrastructure. It is the right-hand section of a continuous three-post mural.
+
+
+POST 2 — PUBLISH SECOND — CENTER OF THE FINAL MURAL
+File: 02-publicar-segundo-centro.png
+
+Meet DataTerra.
+
+Territorial intelligence for data centers.
+
+We bring territorial data into a shared view to help developers, engineering teams, environmental consultants and public-sector planners explore potential locations with more context.
+
+Our starting point is simple: understand the territory before committing to a site. Preliminary screening helps focus the specialist studies that come next.
+
+Discover the project and explore the simulator through the link in our bio.
+
+#DataTerra #DataCenters #SiteSelection #TerritorialIntelligence
+
+Alt text:
+The DataTerra layered symbol and wordmark appear in sage, ivory and terracotta on a dark green background. The text reads “Territorial intelligence for data centers.” Below, a conceptual aerial landscape shows a data-center campus connected to surrounding land and infrastructure. This is the center section of a continuous three-post mural.
+
+
+POST 3 — PUBLISH THIRD — LEFT SIDE OF THE FINAL MURAL
+File: 03-publicar-terceiro-esquerda.png
+
+Good decisions start with the territory.
+
+Before a data center becomes a building, it begins with questions about a place: its water, energy, connectivity, communities and environmental constraints.
+
+DataTerra helps make that context visible at the start of the site-selection journey, so teams can compare possibilities and plan their next studies with clearer assumptions.
+
+Follow our journey toward more responsible digital infrastructure. Explore DataTerra through the link in our bio.
+
+#DataTerra #DataCenters #DigitalInfrastructure #SiteSelection
+
+Alt text:
+A dark green DataTerra graphic says “Good decisions start with the territory.” An illustrated river winds through forested hills, with connected routes continuing toward the neighboring posts. Supporting text encourages understanding the local context before committing capital. It is the left-hand section of a continuous three-post mural.
+
+
+PROFILE NAME
+DataTerra
+
+SUGGESTED BIO
+Territorial intelligence for data centers.
+Water • energy • connectivity • territorial risk.
+Explore the project ↓
+
+BIO LINK
+https://dataterra.vercel.app/?lang=en
+
+PROFILE PICTURE
+foto-perfil-dataterra.png

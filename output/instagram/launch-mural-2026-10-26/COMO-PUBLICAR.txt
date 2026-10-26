@@ -1,0 +1,70 @@
+MURAL DE LANÇAMENTO DO DATATERRA
+
+O pacote contém três posts em inglês que formam uma paisagem contínua,
+com a identidade visual atual do DataTerra. Cada imagem também pode ser
+lida individualmente no feed.
+
+ORDEM DE PUBLICAÇÃO
+
+1. Publique 01-publicar-primeiro-direita.png.
+   Mensagem: Four pillars. A clearer view.
+
+2. Publique 02-publicar-segundo-centro.png.
+   Mensagem: DataTerra — Territorial intelligence for data centers.
+
+3. Publique 03-publicar-terceiro-esquerda.png.
+   Mensagem: Good decisions start with the territory.
+
+Na grade de três colunas, o resultado desejado, da esquerda para a direita:
+Good decisions | DataTerra | Four pillars
+
+Publique como três posts separados, mantendo a proporção original 3:4.
+Use a legenda correspondente no arquivo LEGENDAS-EN.txt. As versões JPG
+têm o mesmo conteúdo das versões PNG; escolha apenas uma de cada post.
+
+Confira a prévia antes de concluir a publicação. Preserve a imagem inteira
+e evite alterar o zoom ou o corte de um único post. A visualização da grade
+pode variar entre superfícies e versões do Instagram. A imagem de prévia
+incluída demonstra a composição desejada em três colunas.
+
+As três publicações devem ficar consecutivas. Novos posts alteram a posição
+da linha; confira a ordem final caso reorganize ou fixe conteúdos no perfil.
+
+CONFIGURAÇÃO DO PERFIL
+
+Nome: DataTerra
+Foto: foto-perfil-dataterra.png
+Bio sugerida: disponível em inglês no arquivo LEGENDAS-EN.txt.
+Link da bio: https://data-terra.vercel.app/links?lang=en
+
+Perfil confirmado: https://www.instagram.com/dataterra929/
+A página de links do perfil está publicada em https://data-terra.vercel.app/links?lang=en.
+
+ARQUIVOS
+
+01, 02 e 03 em PNG e JPG: imagens prontas para publicar, 1080 × 1440 px.
+previa-mural-no-perfil.png: visualização dos três posts lado a lado.
+mural-completo-3240x1440.png: composição integral sem separações.
+foto-perfil-dataterra.png: símbolo atual da marca, 1080 × 1080 px.
+LEGENDAS-EN.txt: legendas, textos alternativos e sugestão de bio.
+source/: composição editável local, fundo, script e prompt completo.
+
+DESIGN E ESCOPO
+
+Paleta: verde escuro #101b17, sálvia #b3cf91, branco #edf2e8 e terracota #e4a080.
+Fontes: Montserrat e Poppins, dos arquivos atuais do projeto.
+Logo: símbolo e construção tipográfica usados na interface atual.
+Fundo: ilustração conceitual gerada com a ferramenta integrada ImageGen.
+Não representa uma instalação existente ou um mapa de dados reais.
+Logo, textos e ícones foram compostos a partir de elementos nativos.
+Os três cortes vêm da mesma imagem, preservando a continuidade do fundo.
+
+O conteúdo apresenta o DataTerra como apoio à triagem preliminar e ao
+planejamento de estudos, sem prometer aprovação técnica ou regulatória.
+
+REFERÊNCIA DE FORMATO
+
+O suporte a fotos 3:4 foi anunciado pelo Instagram em maio de 2025:
+https://www.socialmediatoday.com/news/instagram-adds-support-phone-camera-aspect-ratio-images/749205/
+
+Data de preparação: 26/10/2026.

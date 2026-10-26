@@ -1,0 +1,30 @@
+{
+  "language": "en",
+  "size": {
+    "width": 3240,
+    "height": 1440
+  },
+  "panels": 3,
+  "mode": "built-in image_gen",
+  "purpose": "background artwork with native DataTerra logo and typography composited separately",
+  "prompt": "Use case: ads-marketing.\nAsset type: ONE continuous panoramic artwork to serve as the background of a three-post Instagram profile mural for DataTerra, a Brazilian territorial intelligence project for data-center planning.\nPrimary request: Create a polished, distinctive, premium landscape illustration, exact aspect ratio 9:4 (2.25:1), intended final canvas 3240 x 1440 px. It will later be cut into THREE equal vertical 3:4 panels. Produce a single seamless panorama with no panel borders, no gutters, no text or logos.\nScene/backdrop: deep forest-green (#101b17) background. Top 52% of the entire canvas must stay extremely quiet, nearly uniform dark green, with only barely visible topographic contour lines. This is deliberate negative space for brand typography added afterward. All substantial scenic artwork sits in the bottom 48% of the canvas.\nSubject: an elegant continuous aerial/isometric Brazilian-inspired territory, with sculpted dark-green hills and topographic terrain, a winding blue-green river on the left, understated renewable-energy assets, and an architecturally plausible compact data-center campus centered near x=50%, y=75%. A restrained terracotta route and sage light threads connect water, landscape and infrastructure across the FULL width, entering and exiting the left/right edges at the same lower band. The landscape and connected routes must visibly traverse BOTH future cut lines at x=33.333% and x=66.667%; no single critical building or emblem sits on a cut line.\nStyle/medium: sophisticated editorial 3D cartographic illustration, matte materials, precise small infrastructure forms, beautifully layered terrain, subtle atmospheric depth, soft glancing light. Conceptual terrain, NOT a factual map or photograph. A refined sustainability/technology campaign, calm and intelligent, not sci-fi.\nComposition: panoramic wide view; quiet top half; graceful curved landscape in lower half running continuously across all three panels. Include several small point nodes with restrained halo glow integrated into terrain, not floating UI. Left lower third river, center lower third data center, right lower third energy and connected land.\nPalette: near-black forest #101b17, moss #203329, sage #b3cf91, warm ivory #edf2e8 only for minimal tiny highlights, restrained terracotta #e4a080, very subdued teal water. Predominantly dark, with enough detail and separation to be legible on phones.\nConstraints: NO typography, letters, numerals, logos, labels, interface panels, title, watermark, border, thin vertical dividers, tiled composition, collage, people, flags, globes, stars, excessive glow, saturated neon cyan, purple, glossy futuristic skyscrapers. No white background. The top empty area must blend naturally into the terrain without a harsh horizon.\nDeliver one cohesive full-bleed panoramic background, 9:4 aspect ratio.",
+  "composition": {
+    "left": "Good decisions start with the territory.",
+    "center": "DataTerra — Territorial intelligence for data centers.",
+    "right": "Four pillars. A clearer view.",
+    "brand": {
+      "background": "#101b17",
+      "sage": "#b3cf91",
+      "ivory": "#edf2e8",
+      "terracotta": "#e4a080",
+      "headings": "Montserrat",
+      "body": "Poppins"
+    },
+    "sources": {
+      "logo": "index.html",
+      "fonts": "assets/fonts",
+      "colors": "styles.css"
+    }
+  },
+  "notes": "One continuous generated background, then exact native brand/text composition and three mechanical crops."
+}

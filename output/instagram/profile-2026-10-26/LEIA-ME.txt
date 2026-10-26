@@ -1,0 +1,29 @@
+DATATERRA — PERFIL DO INSTAGRAM
+
+Use dataterra-instagram-perfil.png como foto do perfil.
+PNG de 1080 × 1080 px, com fundo verde escuro e símbolo sálvia.
+O arquivo já está centralizado: mantenha o enquadramento inteiro ao enviar.
+
+O desenho é o mesmo vetor da logo atual do projeto. O símbolo foi ampliado
+e o traço foi ajustado para manter a leitura em uma foto de perfil pequena.
+O espaço ao redor preserva o símbolo no recorte circular.
+
+O arquivo SVG permite exportar outras resoluções sem perda de qualidade.
+previa-recorte-circular.png mostra como o recorte fica no perfil.
+
+NOME SUGERIDO
+DataTerra | Data Centers
+
+BIO EM INGLÊS
+Territorial intelligence for data centers in Brazil.
+Water • energy • connectivity • territorial risk.
+Explore DataTerra ↓
+
+LINK DO PERFIL
+https://data-terra.vercel.app/links?lang=en
+
+A bio está pronta para copiar no arquivo bio-en.txt.
+O link deve ser cadastrado no campo de links do perfil.
+
+Origem da marca: index.html, classe brand-icon, do projeto DataTerra.
+Cores: #101b17 e #b3cf91, identidade atual do projeto.

@@ -1,0 +1,170 @@
+{
+  "width": 3240,
+  "height": 1440,
+  "postWidth": 1080,
+  "postHeight": 1440,
+  "aspectRatio": "3:4",
+  "posts": [
+    "01-publicar-primeiro-direita",
+    "02-publicar-segundo-centro",
+    "03-publicar-terceiro-esquerda"
+  ],
+  "seamlessSplit": true,
+  "errors": [],
+  "bounds": [
+    {
+      "text": "Good decisionsstart withthe territory.",
+      "box": {
+        "x": 82,
+        "y": 295.796875,
+        "width": 928,
+        "height": 324,
+        "top": 295.796875,
+        "right": 1010,
+        "bottom": 619.796875,
+        "left": 82
+      },
+      "scrollWidth": 928,
+      "clientWidth": 928
+    },
+    {
+      "text": "Understand the local contextbefore committing capital.",
+      "box": {
+        "x": 82,
+        "y": 652.796875,
+        "width": 928,
+        "height": 93,
+        "top": 652.796875,
+        "right": 1010,
+        "bottom": 745.796875,
+        "left": 82
+      },
+      "scrollWidth": 928,
+      "clientWidth": 928
+    },
+    {
+      "text": "A better starting point for site selection.",
+      "box": {
+        "x": 82,
+        "y": 1333.609375,
+        "width": 916,
+        "height": 32.390625,
+        "top": 1333.609375,
+        "right": 998,
+        "bottom": 1366,
+        "left": 82
+      },
+      "scrollWidth": 916,
+      "clientWidth": 916
+    },
+    {
+      "text": "dataterra.",
+      "box": {
+        "x": 1356.734375,
+        "y": 404,
+        "width": 526.515625,
+        "height": 119,
+        "top": 404,
+        "right": 1883.25,
+        "bottom": 523,
+        "left": 1356.734375
+      },
+      "scrollWidth": 527,
+      "clientWidth": 527
+    },
+    {
+      "text": "Territorial intelligencefor data centers.",
+      "box": {
+        "x": 1415.296875,
+        "y": 565,
+        "width": 409.40625,
+        "height": 109.1875,
+        "top": 565,
+        "right": 1824.703125,
+        "bottom": 674.1875,
+        "left": 1415.296875
+      },
+      "scrollWidth": 409,
+      "clientWidth": 409
+    },
+    {
+      "text": "Built for a responsible digital future.",
+      "box": {
+        "x": 1162,
+        "y": 1332.25,
+        "width": 916,
+        "height": 33.75,
+        "top": 1332.25,
+        "right": 2078,
+        "bottom": 1366,
+        "left": 1162
+      },
+      "scrollWidth": 916,
+      "clientWidth": 916
+    },
+    {
+      "text": "Four pillars.A clearer view.",
+      "box": {
+        "x": 2242,
+        "y": 295.796875,
+        "width": 923,
+        "height": 206.78125,
+        "top": 295.796875,
+        "right": 3165,
+        "bottom": 502.578125,
+        "left": 2242
+      },
+      "scrollWidth": 923,
+      "clientWidth": 923
+    },
+    {
+      "text": "Water stressEnergy capacityConnectivitySocial &territorial risk",
+      "box": {
+        "x": 2242,
+        "y": 548.578125,
+        "width": 900,
+        "height": 133.1875,
+        "top": 548.578125,
+        "right": 3142,
+        "bottom": 681.765625,
+        "left": 2242
+      },
+      "scrollWidth": 900,
+      "clientWidth": 900
+    },
+    {
+      "text": "Preliminary screening.Transparent assumptions.",
+      "box": {
+        "x": 2242,
+        "y": 712.765625,
+        "width": 923,
+        "height": 84,
+        "top": 712.765625,
+        "right": 3165,
+        "bottom": 796.765625,
+        "left": 2242
+      },
+      "scrollWidth": 923,
+      "clientWidth": 923
+    },
+    {
+      "text": "Explore the project. Link in bio.",
+      "box": {
+        "x": 2242,
+        "y": 1332.25,
+        "width": 916,
+        "height": 33.75,
+        "top": 1332.25,
+        "right": 3158,
+        "bottom": 1366,
+        "left": 2242
+      },
+      "scrollWidth": 916,
+      "clientWidth": 916
+    }
+  ],
+  "avatar": {
+    "width": 1080,
+    "height": 1080
+  }
+}
